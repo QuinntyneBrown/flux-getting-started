@@ -1,0 +1,33 @@
+{
+  "name": "flux-getting-started",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinntyneBrown/flux-getting-started.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinntyneBrown/flux-getting-started/issues"
+  },
+  "homepage": "https://github.com/QuinntyneBrown/flux-getting-started#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-route": "^1.4.8",
+    "ng-x": "^0.4.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^4.2.2",
+    "gulp-typescript": "^2.10.0",
+    "tslint": "^3.2.1",
+    "typescript": "^1.7.5"
+  }
+}
